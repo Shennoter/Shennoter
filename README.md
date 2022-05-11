@@ -1,5 +1,5 @@
 ## 你是第几位访客捏
-![shennoter](https://count.getloli.com/get/@shennoter)  
+![Shennoter](https://count.getloli.com/get/@Shennoter?theme=rule34)  
 ## 博客
 https://shennoter.top/
 ## 常用语言
