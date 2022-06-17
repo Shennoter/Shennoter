@@ -1,4 +1,4 @@
-📟 Telegram: @Hikigaya8man
+📟 Telegram: [@Hikigaya8man](https://t.me/Hikigaya8man)
 ## 🤺 Count
 ![Shennoter](https://count.getloli.com/get/@Shennoter?theme=rule34)  
 ## 🥇 Top Langs
