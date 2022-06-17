@@ -1,5 +1,6 @@
+## 🤺 Contact
 📟 Telegram: [@Hikigaya8man](https://t.me/Hikigaya8man)
-## 🤺 Count
+## 🏠 Count
 ![Shennoter](https://count.getloli.com/get/@Shennoter?theme=rule34)  
 ## 🥇 Top Langs
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shennoter&layout=compact&theme=buefy)  
