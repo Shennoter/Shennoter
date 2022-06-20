@@ -1,4 +1,5 @@
 # EL PSY KONGROO
+Noob of Information Security
 ## 🤺 Contact
 📟 Telegram: [@Hikigaya8man](https://t.me/Hikigaya8man)
 ## 🏠 Count
