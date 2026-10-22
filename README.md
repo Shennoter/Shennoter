@@ -8,7 +8,7 @@
 
 **Per aspera ad astra.**
 
-写聊天机器人插件，把语音、游戏资讯和喜欢的故事带进对话。
+兴趣使然地写聊天机器人插件
 
 <p>
   <a href="https://github.com/Shennoter?tab=repositories&amp;language=python"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python 项目" /></a>
@@ -25,7 +25,7 @@
 
 ## 插件作品
 
-从 Python 的 AstrBot 到 Kotlin 的 mirai-console，做一些能在聊天里用上的小工具。
+从 Kotlin 的 mirai-console 到 Python 的 AstrBot ，做一些能在聊天里用上的插件。
 
 <table>
 <tr>
@@ -76,15 +76,13 @@
 | :--- | :--- | :--- |
 | 处理器设计 | [RISCV-CPU](https://github.com/Shennoter/RISCV-CPU) | 使用 RISC-V 指令集的单周期 CPU · VHDL |
 | 固件构建 | [mir3g-ua2f-openwrt-firmware](https://github.com/Shennoter/mir3g-ua2f-openwrt-firmware) | OpenWrt / UA2F 固件云编译 · Shell |
-| 编程学习 | [My-C-Programming-Learning](https://github.com/Shennoter/My-C-Programming-Learning) | C 语言学习记录 |
 
-也在学习信息安全。
 
 ---
 
 <div align="center">
 
-<sub>从一条消息，到一条世界线。</sub>
+<sub>在百分之一的墙的对面，我一定存在着。</sub>
 
 **EL PSY KONGROO**
 
