@@ -2,9 +2,11 @@
 
 <sub>PLUGINS · VOICE · WORLDLINES</sub>
 
+<img src="./assets/worldline-header.svg" width="100%" alt="Shennoter — Per aspera ad astra. 命运石之门风格的辉光管世界线显示器，变动率 1.048596。" />
+
 # Hi, I'm Shennoter.
 
-<p><img src="https://count.getloli.com/get/@Shennoter?theme=nixietube-1" /></a>
+
 
 **Per aspera ad astra.**
 
@@ -21,7 +23,8 @@
 
 </div>
 
----
+<img src="./assets/worldline-divider.svg" width="100%" alt="三条世界线交汇，琥珀色信号缓慢流动" />
+
 
 ## 插件作品
 
@@ -81,6 +84,7 @@
 ---
 
 <div align="center">
+<p><img src="https://count.getloli.com/get/@Shennoter?theme=nixietube-1" /></a>
 
 <sub>在百分之一的墙的对面，我一定存在着。</sub>
 
