@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="76" viewBox="0 0 1200 76" role="img" aria-labelledby="title desc">
+<title id="title">Worldline convergence</title>
+<desc id="desc">Three fine amber worldlines converge and separate, carrying a slowly travelling pulse of light.</desc>
+<defs>
+  <linearGradient id="fade"><stop stop-color="#a66f3d" stop-opacity="0"/><stop offset=".2" stop-color="#b7804e" stop-opacity=".45"/><stop offset=".5" stop-color="#df9c5e"/><stop offset=".8" stop-color="#b7804e" stop-opacity=".45"/><stop offset="1" stop-color="#a66f3d" stop-opacity="0"/></linearGradient>
+  <filter id="glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="3"/></filter>
+</defs>
+<style>
+  .pulse{stroke-dasharray:10 1190;animation:travel 9s linear infinite}
+  .node{animation:breathe 5s ease-in-out infinite}
+  @keyframes travel{to{stroke-dashoffset:-1200}}
+  @keyframes breathe{0%,100%{opacity:.45}50%{opacity:1}}
+  @media(prefers-reduced-motion:reduce){.pulse,.node{animation:none!important}}
+</style>
+<g fill="none" stroke="url(#fade)" stroke-width="1">
+  <path d="M0 14H320C425 14 458 38 590 38S765 62 880 62H1200" opacity=".55"/>
+  <path d="M0 62H320C425 62 458 38 590 38S765 14 880 14H1200" opacity=".55"/>
+  <path d="M0 38H1200" opacity=".65"/>
+</g>
+<path class="pulse" d="M0 38H1200" fill="none" stroke="#d79553" stroke-width="2"/>
+<g class="node" fill="#e9a15b"><circle cx="600" cy="38" r="7" opacity=".4" filter="url(#glow)"/><circle cx="600" cy="38" r="2.8"/></g>
+<g fill="none" stroke="#bf8b56" opacity=".65"><path d="M589 38l11-11 11 11-11 11z"/><path d="M584 38h-8M616 38h8"/></g>
+</svg>
